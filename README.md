@@ -19,7 +19,6 @@ Our goals are to:
 
 - `/profile/` - Contains our organization's public README.
 - `/ISSUE_TEMPLATE/` - Standardized YAML templates for bug reports, feature requests, tasks, improvements, and documentation.
-- `/docs/` - Comprehensive engineering handbook covering standards, architecture, organization, processes, and onboarding.
 - `/CONTRIBUTING.md` - Guidelines for contributing to OcteDigital projects.
 - `/CODE_OF_CONDUCT.md` - Our expectations for professional and collaborative behavior.
 - `/SECURITY.md` - How to report security vulnerabilities responsibly.

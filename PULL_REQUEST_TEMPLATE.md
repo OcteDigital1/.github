@@ -27,11 +27,11 @@ Fixes #
 
 - [ ] I have read the [Contributing Guidelines](../CONTRIBUTING.md).
 - [ ] I am targeting the correct branch (`develop` for features/fixes, `main` for hotfixes/releases).
-- [ ] My code follows the [Repository Standards](../docs/standards/repository-standards.md).
+- [ ] My code follows the [Repository Standards](https://github.com/OcteDigital/.github-private/blob/main/docs/standards/repository-standards.md).
 - [ ] I have performed a self-review of my own code.
 - [ ] I have commented my code, particularly in hard-to-understand areas.
 - [ ] I have made corresponding changes to the documentation.
-- [ ] I have used [Conventional Commits](../docs/standards/commit-convention.md).
+- [ ] I have used [Conventional Commits](https://github.com/OcteDigital/.github-private/blob/main/docs/standards/commit-convention.md).
 
 ## Review Notes
 

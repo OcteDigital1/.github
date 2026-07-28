@@ -11,14 +11,11 @@ Our culture is built around transparency, continuous improvement, and a strong e
 - **Infrastructure**: Infrastructure as Code (IaC), robust CI/CD, and cloud-native architecture.
 - **Security**: Security by design, baked into our development lifecycle from day one.
 
-For a deeper dive into how we think and work, read our [Engineering Philosophy](../docs/engineering-philosophy.md).
-
 ## Open Engineering
 
 We believe in transparency and shared knowledge. You will find our architectural standards and operational guidelines documented here.
 
 - **Contributing**: See our [Contributing Guidelines](../CONTRIBUTING.md).
-- **Standards**: Explore our [Engineering Handbook](../docs/README.md).
 
 ## Connect
 
