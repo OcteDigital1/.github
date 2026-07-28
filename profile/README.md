@@ -15,9 +15,9 @@ Our culture is built around transparency, continuous improvement, and a strong e
 
 We believe in transparency and shared knowledge. You will find our architectural standards and operational guidelines documented here.
 
-- **Contributing**: See our [Contributing Guidelines](../CONTRIBUTING.md).
+- **Contributing**: See our [Contributing Guidelines](../.github/CONTRIBUTING.md).
 
 ## Connect
 
 - **Engineering Inquiries**: `hello@octedigital.com`
-- **Security Reporting**: Please refer to our [Security Policy](../SECURITY.md) before opening any issues.
+- **Security Reporting**: Please refer to our [Security Policy](../.github/SECURITY.md) before opening any issues.

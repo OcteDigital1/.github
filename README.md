@@ -18,12 +18,12 @@ Our goals are to:
 ## Repository Structure
 
 - `/profile/` - Contains our organization's public README.
-- `/ISSUE_TEMPLATE/` - Standardized YAML templates for bug reports, feature requests, tasks, improvements, and documentation.
-- `/CONTRIBUTING.md` - Guidelines for contributing to OcteDigital projects.
-- `/CODE_OF_CONDUCT.md` - Our expectations for professional and collaborative behavior.
-- `/SECURITY.md` - How to report security vulnerabilities responsibly.
-- `/SUPPORT.md` - Where and how to get help.
-- `/PULL_REQUEST_TEMPLATE.md` - The default template for all pull requests.
+- `/.github/ISSUE_TEMPLATE/` - Standardized YAML templates for bug reports, feature requests, tasks, improvements, and documentation.
+- `/.github/CONTRIBUTING.md` - Guidelines for contributing to OcteDigital projects.
+- `/.github/CODE_OF_CONDUCT.md` - Our expectations for professional and collaborative behavior.
+- `/.github/SECURITY.md` - How to report security vulnerabilities responsibly.
+- `/.github/SUPPORT.md` - Where and how to get help.
+- `/.github/PULL_REQUEST_TEMPLATE.md` - Used to format PR descriptions.
 
 ## License
 
