@@ -7,7 +7,7 @@ If you need help with an OcteDigital project, please follow these steps to find 
 Before asking for help, please review:
 
 - The `README.md` of the specific repository.
-- Search existing [Issues](https://github.com/OcteDigital) (both open and closed) to see if your question has been answered.
+- Search existing [Issues](https://github.com/OcteDigital1) (both open and closed) to see if your question has been answered.
 
 ## 2. Internal Engineering Channels
 
