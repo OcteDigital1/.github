@@ -12,12 +12,12 @@ This document outlines our standard process for contributing to any OcteDigital 
 
 ## 2. Setting Up Your Environment
 
-Refer to the repository's local `README.md` for specific setup instructions. For general engineering standards and our core tenets, please read our [Engineering Philosophy](https://github.com/OcteDigital/.github-private/blob/main/docs/engineering-philosophy.md).
+Refer to the repository's local `README.md` for specific setup instructions. Please adhere to the general engineering standards documented in the repository.
 
 ## 3. Making Changes
 
-1. **Branching**: Follow our [Branching Strategy](https://github.com/OcteDigital/.github-private/blob/main/docs/standards/branching-strategy.md). **Always branch off `develop`** for new features and use descriptive branch names (e.g., `feature/auth-service`).
-2. **Commits**: Adhere to our [Commit Convention](https://github.com/OcteDigital/.github-private/blob/main/docs/standards/commit-convention.md). We use Conventional Commits strictly.
+1. **Branching**: Follow standard GitFlow principles. **Always branch off `develop`** for new features and use descriptive branch names (e.g., `feature/auth-service`).
+2. **Commits**: Adhere to standard commit conventions. We use Conventional Commits strictly.
 3. **Coding Standards**: Ensure your code follows the established standards for the repository. Run all linters, formatters, and tests before committing.
 
 ## 4. Submitting a Pull Request
@@ -30,7 +30,7 @@ Refer to the repository's local `README.md` for specific setup instructions. For
 
 ## 5. Code Review
 
-All PRs require at least one approval from a designated code owner. See our [Code Review Guidelines](https://github.com/OcteDigital/.github-private/blob/main/docs/standards/code-review.md) for expectations. Address any feedback promptly. Once approved, the PR can be merged.
+All PRs require at least one approval from a designated code owner. All code is expected to be clean, tested, and well-documented. Address any feedback promptly. Once approved, the PR can be merged.
 
 ## Getting Help
 

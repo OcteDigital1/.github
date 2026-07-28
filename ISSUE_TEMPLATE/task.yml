@@ -20,7 +20,7 @@ body:
     attributes:
       label: Acceptance Criteria
       description: What are the conditions that must be met for this task to be considered complete?
-      value: |
+      placeholder: |
         - [ ] Criterion 1
         - [ ] Criterion 2
     validations:
