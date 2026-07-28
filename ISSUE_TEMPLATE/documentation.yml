@@ -1,0 +1,27 @@
+name: Documentation
+description: Report missing, incorrect, or suggest improvements to documentation
+title: "[Docs]: "
+labels: ["documentation", "triage"]
+assignees: []
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Location of Documentation
+      description: Where is the documentation located? (URL or file path)
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: Description of the Issue
+      description: What is wrong or missing?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested Fix
+      description: If you know how to fix it, please describe the solution here.
+    validations:
+      required: false

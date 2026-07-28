@@ -1,0 +1,27 @@
+name: Improvement
+description: Propose an improvement to existing functionality or code
+title: "[Improvement]: "
+labels: ["enhancement", "triage"]
+assignees: []
+body:
+  - type: textarea
+    id: current_state
+    attributes:
+      label: Current State
+      description: Describe the current behavior or implementation that you wish to improve.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed_improvement
+    attributes:
+      label: Proposed Improvement
+      description: How should the system or code be improved?
+    validations:
+      required: true
+  - type: textarea
+    id: benefits
+    attributes:
+      label: Expected Benefits
+      description: Why should we make this improvement? (e.g., performance, readability, maintainability)
+    validations:
+      required: true

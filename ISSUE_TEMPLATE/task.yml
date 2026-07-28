@@ -1,0 +1,27 @@
+name: Task
+description: Create a general engineering task or chore
+title: "[Task]: "
+labels: ["chore", "triage"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template for internal tasks, chores, or maintenance work.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the task that needs to be completed.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance_criteria
+    attributes:
+      label: Acceptance Criteria
+      description: What are the conditions that must be met for this task to be considered complete?
+      value: |
+        - [ ] Criterion 1
+        - [ ] Criterion 2
+    validations:
+      required: true
